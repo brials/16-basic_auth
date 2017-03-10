@@ -1,6 +1,6 @@
 ![cf](https://i.imgur.com/7v5ASc8.png) Lab 16 - Basic Auth
 ======
-
+Making a change for staging push.
 ## To Submit this Assignment
   * fork this repository
   * write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-brian`
